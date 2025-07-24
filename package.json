@@ -1,0 +1,15 @@
+{
+  "name": "moneymapper",
+  "version": "1.0.0",
+  "description": "Bucks2Bar is a simple web application that showcases a user-friendly interface for managing and displaying various items. The project utilizes the latest version of Bootstrap for responsive design and includes custom styles and scripts for enhanced functionality.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
